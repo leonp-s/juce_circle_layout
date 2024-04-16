@@ -6,7 +6,7 @@
 BEGIN_JUCE_MODULE_DECLARATION
 
  ID:               juce_circle_layout
- vendor:           LeonPS
+ vendor:           leonps
  version:          1.0.0
  name:             Juce Circle Layout
  description:      An easy to use 'flex-box' style utility for layouts based around circles.

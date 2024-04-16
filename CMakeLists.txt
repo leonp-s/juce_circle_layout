@@ -16,9 +16,6 @@ if (juce_circle_layout_IS_TOP_LEVEL)
 
     juce_add_module(juce_circle_layout)
 
-    enable_testing()
-    add_subdirectory(test)
-
     add_subdirectory(examples)
 else ()
     juce_add_module(juce_circle_layout)

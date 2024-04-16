@@ -54,6 +54,7 @@ public:
                                   ResizableWindow::backgroundColourId),
                               DocumentWindow::allButtons)
         {
+            setColour (juce::ResizableWindow::ColourIds::backgroundColourId, juce::Colours::white);
             setUsingNativeTitleBar (true);
             setContentOwned (new CircleLayoutExamples (), true);
             setResizable (true, true);

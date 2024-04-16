@@ -20,7 +20,7 @@ static void StrokeCircles (juce::Graphics & g, std::vector<Circle> & circles, fl
 
 CircleLayoutExamples::CircleLayoutExamples ()
 {
-    setSize (400, 400);
+    setSize (600, 600);
     setSynchroniseToVBlank (true);
     setOpaque (false);
 }

@@ -20,6 +20,10 @@
 
 # Usage
 
+# Examples
+
+![](resources/circle_layout_example.gif)
+
 
 [license-shield]: https://img.shields.io/github/license/leonp-s/juce_circle_layout.svg?style=for-the-badge
 [license-url]: https://github.com/leonp-s/juce_circle_layout/blob/main/LICENSE

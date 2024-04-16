@@ -18,15 +18,17 @@
   </p>
 </div>
 
-# Usage
-
 # Examples
+This illustration demonstrates the libraries basic usage,
+<img src="resources/circle_layout_usage.png" />
 
 A relatively complex layout as seen below can be achieved quite concisely, including nested sub-layouts, using a declarative approach similar to JUCEs flex-box.
 
 <div align="center">
 <img src="resources/circle_layout_example.gif" width="50%" height="50%"/>
 </div>
+
+<br />
 
 ```cpp
 CircleLayout orbit_layout;
